@@ -1,0 +1,372 @@
+2
+9
+Khatm.e.Nabvot Chowk
+Kaneez Fatima
+Madras Choke
+G3 Stop
+Suchal Goath
+Chapal
+Memon Hp
+Gull Estate
+Safoora
+3
+6
+Rabia City
+Pahalwan Goath
+Sindh Baloch
+Baithak Merriage Lawn
+Nawazsharif Scheem
+Bismillah Tower(PIA)
+3B
+4
+Kamran Chowrangi
+Sardar CNG
+Munawar Chowrangi
+Johar More
+4
+6
+Maymar Gate
+Jamali Pull
+Al Asif
+Abbas Town
+Paradise Bakery
+Maskan
+4B 
+3
+Maskan
+Disco Bakery
+Rimjim Hall    
+5
+8
+4K Stop
+2 Minute
+Power House
+Saleem Center
+UP-More
+Nagan (Dahli Hall)
+Shadman 2-1
+Sakhi Hassan
+5B
+6
+Dolmin Mall
+5 Star
+Farooq.e.Azam
+Lucky 1
+Moti Mahal
+Gulshan Dhaka
+6
+10
+Ajmair Nagri
+Bombay Bakery
+Oxford School
+Bara Dari
+Babul Islam
+Disco More
+Qalandria Chowke
+K.I.H.D hospital
+Fazal Mill
+Centrum
+6B
+12
+Anda More
+Haider Food
+DC Office
+Peoples Chowrangi
+Kaif.e.piyala
+Gulberg
+Raheem Hospital
+Water Pump More
+Caltex Petrolium
+Ancholi
+Suhrab Goth
+Fazal Mill
+7
+5
+Donisal
+LandiKotal
+Tahir Villas
+Shadab Masjid
+Gulberg Thana
+8
+8
+Masjid Usman Ghani
+Mochi Gali
+ShipOwner
+LadyBird
+Mateen Food
+Dental College
+Niaz Manzil
+Green House
+9
+8
+Anda More
+Red House
+Al Habib
+Cafe 2 Days
+Namak Bank
+Shafeeq More
+Al Noor
+Edhi Center
+11
+6
+Soldier Bazar
+Guro Mandir
+Islamiya College
+Stadium Road
+Dalmia
+Natha Khan
+12
+7
+Jail Road
+Khudabad Colony
+Kashmir Road
+Sir Syed road
+Khalid Bin Waleed Road
+Tariq Road
+Tipu Sultan Road
+13
+9
+Race Course
+Cant Station
+Askari II & III
+Kala Pul
+CSD
+FTC
+Drig Road
+Colony Gate
+Star Gate
+14
+5
+Sharfabad
+Bahadurabad
+Dhoraji
+M. Ali Society
+Malir Halt
+15
+6
+ZamZama
+Gizri
+Phase-IV
+Phase-II
+Phase-II KFC
+Akhtar Colony
+16
+7
+Bilawal House
+Hyper Star
+Kh. Mujahid
+Saba Avenue
+Kh. Bukhari
+Kh. Ittehad
+KFC Phase-II
+17
+6
+Karimabad
+Ayesha Manzil
+BhaiJaan Chowke
+Gulshan e shameem
+13 D Gulshan
+Rab Medical
+18
+7
+7 No Nazimabad
+Abbasi Hospital
+Khilafat Chowke
+Board Office
+Mause Colony
+Meena Bazar
+Usman Memorial
+19
+5
+Hassan Square
+Mumtaz Manzil
+Bait-Ul-Mukarram
+Urdu Science College
+Aziz Bhatti Park
+20
+7
+Bin Hashim
+Commander CNG
+Kazimabad
+Tank Chowke
+Model More
+Model Colony
+Baraf Khana to Kala Board
+21
+7
+Tower
+Jand Press
+Sindh Secretariat
+Saddar
+Lucky Star
+FTC
+Shahrah-e-Faisal Nursery
+22
+3
+Ayesha Manzil
+Bhaijaan Chowke
+Rab Medical
+23
+5
+Orangi Town # 5
+Abdullah College
+Asghar Ali Shah
+Katti Pahari
+KDA chowrangi
+23B
+6
+Hayderi Super Market
+Ziaudiin
+LandiKotal
+Tahir Villas
+Ayesha Manzil More
+Naseerabad
+24
+9
+Lala Zar Nipa
+Safari Park
+Samama
+Continental
+Kesc
+Johar Chowrangi
+Perfume Chowke
+Hill Top
+Johar More
+24B
+5
+PCSIR
+Madras Chowke
+Darul Sehat
+Rado
+JDC
+25
+6
+Dow University
+Rizvia
+Al-Hira
+Saima Flat
+Sadi Town
+Falcon
+25B
+12
+Fariya chowke
+Malik Society
+KDA
+Quita Town
+Sumaira Flat
+Alazhar
+Capital Society
+Tulip Tower
+Gulshan Humair
+5 no Checkpost
+6 no Checkpost
+Security Printing
+26
+7
+Qalandrabad
+Saadabad
+PSO pump near KU
+Mosamiyat
+johar complex
+commander cng
+G-10 gull house
+30
+7
+Jahangirabad
+Golimar Chowrangi
+Naz Petrol Pump
+Liaquatabad
+Ghareebabad
+Baloch Hotel
+Karsaz
+31
+4
+KPT Bridge
+Iqra University
+Manzoor Colony
+PAF Chapter
+32
+9
+Boat Basin
+Bilawal Chowrangi
+26 Street
+Badar Commercial
+Khayban-e-Sehar
+Nexer College
+Khayaban-e-Shahbaz
+KFC Phase-II
+Singer Chowrangi
+33
+7
+Naz Petrol Pump
+Esa Nagri
+Mashriq Centre
+Stadium
+Dalmia
+Milennium
+Drig Road
+34
+9
+DHA Phase-II KFC
+Qayyumabad
+Korangi Crossing
+Nasir Jump
+Korangi No. 2
+Korangi No. 5
+Landhi No. 4
+Landhi 89
+Dawood Chowrangi
+35
+7
+Aghaz Super Market
+Teen Talwar
+Race Course
+Bachaa Party
+Punjab Chowrangi
+DHA Phase-I (Nadra Office)
+Akhtar Colony
+36
+8
+Police Head Quarter Garden
+Uncle Sariya
+Mobile Market
+Naz Plaza
+Numaish
+Islamia College
+New Town Chandni Chowk
+Dalmia
+37
+13
+Ram Sawami
+Garden Zoo
+Ali Bhai
+Garden Jamat Khana
+Fatimia Blood Bank
+Khurasan
+Numaish
+Khudabad Colony
+Noorani Kabab
+Shahra-e-Quideen
+Nursery
+NHS 4 Shahra-e-Faisal
+Nata Khan
+39
+7
+Shah Faisal Sharma Shopping Center
+Shah Faisal No. 2
+Shah Faisal No. 3
+Kalma Chowk
+Azeem Pora
+Millat Town
+Malir 15
+40
+4
+Matka Stop
+Ala Din Park
+Lal Flat
+Lasania Restaurant
+41
+3
+Askari 4
+COD
+Drig Road 
